@@ -45,7 +45,7 @@ class CatTest {
 		expected="John";
 		results=ob.getName();
 		assertEquals(expected,results);
-
+ 
 	}
 
 }
