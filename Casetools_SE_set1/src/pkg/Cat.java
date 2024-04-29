@@ -11,4 +11,7 @@ public class Cat {
 	public String getColour() {
 		return colour;
 	}
+	public void getName() {
+		return name;
+	}
 }
